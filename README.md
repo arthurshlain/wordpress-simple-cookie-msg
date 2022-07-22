@@ -2,8 +2,9 @@
 
 Display a notice about Cookie usage in WordPress website.
 
-* Works even with server caching. 
-* Protected from search engine indexation.
+* Single file;
+* Works even with server caching;
+* Protected from search engine indexation;
 * Has language translations.
 
 Usage

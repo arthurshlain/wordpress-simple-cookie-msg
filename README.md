@@ -1,12 +1,12 @@
 # wordpress-simple-cookie-msg
 
-Display a notice about Cookie usage in Wordpress website.
+Display a notice about Cookie usage in WordPress website.
 
 * Works even with server caching. 
 * Protected from search engine indexation.
-* Language settings
+* Has language translations.
 
 Usage
 ---
 1. Include `cookie-notification.php` file in `functions.php` file of your WordPress theme.
-2. Modify settings inside.
+2. Modify settings and HTML template inside. Do not remove `id` attributes in HTML template.

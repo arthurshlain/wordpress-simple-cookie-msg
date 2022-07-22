@@ -1,0 +1,1 @@
+# wordpress-simple-cookie-msg

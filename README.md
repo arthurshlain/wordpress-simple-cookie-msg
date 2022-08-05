@@ -1,4 +1,4 @@
-# wordpress-simple-cookie-msg
+# WordPress Cookie Notification
 
 Display a notice about Cookie usage in WordPress website.
 
